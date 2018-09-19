@@ -1,1 +1,4 @@
+title: DPE Montesquieu-Lauragais
+repository: montesquieudpe/montesquieudpe.github.io
 theme: jekyll-theme-slate
+baseurl: ""
