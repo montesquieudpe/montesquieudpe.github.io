@@ -8,8 +8,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "fr-FR"
 title                    : "DPE Montesquieu-Lauragais"
 title_separator          : "-"
-name                     : "Delegues des parents d'élèves"
-description              : "Toute l'information."
+name                     : "Délégues des parents d'élèves"
+description              : "Délégués des parents d'élèves."
 words_per_minute         : 200
 
 
@@ -19,14 +19,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Montesquieu-Lauragais"
-  email            : "dpe@gmail.com"
+  email            : "montesquieu.dpe@gmail.com"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:  "http://google.com"
+      # url:  "http://google.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
